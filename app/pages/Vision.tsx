@@ -87,7 +87,7 @@ export async function Vision() {
                 <p className="text-sm leading-relaxed">
                   To create a thriving ecosystem where students can 
                   transform their ideas into successful businesses, 
-                  contributing to the nation's economic development 
+                  contributing to the nation&apos;s economic development 
                   and creating positive social impact.
                 </p>
               </div>
