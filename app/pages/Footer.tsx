@@ -1,5 +1,4 @@
 import Link from "next/link";
-import EcellNew from "@/images/ecellverynew.png";
 import Image from "next/image";
 
 export default function Footer() {
@@ -51,7 +50,7 @@ export default function Footer() {
               <div className="flex items-center space-x-3">
                 <div className="relative w-16 h-16">
                   <Image 
-                    src={EcellNew} 
+                    src="/icons/ecellverynew.png" 
                     alt="E-CELL REC" 
                     fill
                     className="object-contain"
