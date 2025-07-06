@@ -89,7 +89,7 @@ export default function Footer() {
                   </svg>
                 </Link>
                 <Link
-                  href="#"
+                  href="https://www.instagram.com/ecell_.rec/"
                   className="group relative p-3 rounded-full bg-white/10 hover:bg-white/20 transition-all duration-300 hover:scale-110"
                   aria-label="Instagram"
                 >
@@ -98,7 +98,7 @@ export default function Footer() {
                   </svg>
                 </Link>
                 <Link
-                  href="#"
+                  href="https://www.linkedin.com/company/e-cell-rec-vizag/"
                   className="group relative p-3 rounded-full bg-white/10 hover:bg-white/20 transition-all duration-300 hover:scale-110"
                   aria-label="LinkedIn"
                 >
